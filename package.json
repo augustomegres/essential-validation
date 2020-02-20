@@ -1,6 +1,6 @@
 {
   "name": "essential-validation",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Pacote com validações simples",
   "main": "index.js",
   "scripts": {
