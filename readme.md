@@ -1,6 +1,7 @@
 # Essential Validation
 
 O pacote contém funções simples para ajudar e agilizar o desenvolvimento de seus projetos.
+⭐ Deixa uma estrelinha se gostar ;) 
 
 1. Validação de CPF
 2. Validação de CNPJ
