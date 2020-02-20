@@ -4,6 +4,8 @@ O pacote contém funções simples para ajudar e agilizar o desenvolvimento de s
 
 ⭐ Deixa uma estrelinha se gostar ;) 
 
+[Pacote no github](https://github.com/augustomegres/essential-validation)
+
 1. Validação de CPF
 2. Validação de CNPJ
 
